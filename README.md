@@ -33,5 +33,7 @@ RAG_Llama/
 ```
 
 ## 執行
+```text
 cd D:\Sandy\RAG_Llama
 .\.venv\Scripts\python.exe -m streamlit run app.py
+```
