@@ -1,4 +1,6 @@
+
 ## 專案架構
+```text
 RAG_Llama/
 ├─ __pycache__/
 ├─ .venv/
