@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-POLICIES_DIR=Path(r"D:\Sandy\RAG-ollama\policies")
+POLICIES_DIR=Path(r"D:\Sandy\RAG_Llama\policies")
 CONTENT_COL="file_content"  # 若你的欄位叫 pdf_content 就改這行
 
 def sha256_bytes(b:bytes)->str:
