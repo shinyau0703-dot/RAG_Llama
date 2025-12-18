@@ -14,6 +14,10 @@ RAG_Llama/
 │  ├─ __init__.py
 │  ├─ ask_page.py
 │  └─ db_page.py
+├─ deploy/docker/
+│  ├─ .dockerignore
+│  ├─ docker-compose.yaml
+│  └─ Dockerfile
 ├─ uploads/
 ├─ .env
 ├─ .gitignore
