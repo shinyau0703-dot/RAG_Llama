@@ -30,6 +30,7 @@ RAG_Llama/
 ├─ requirements.txt
 ├─ styles.py
 └─ upload_pdf.py
+```
 
 ## 執行
 cd D:\Sandy\RAG_Llama
